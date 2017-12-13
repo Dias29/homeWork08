@@ -1,0 +1,6 @@
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\bin\Debug\HomeWork08.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\obj\Debug\HomeWork08.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\bin\Debug\HomeWork08.exe
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\bin\Debug\HomeWork08.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\obj\Debug\HomeWork08.exe
+d:\users10\asus\documents\visual studio 2015\Projects\HomeWork08\HomeWork08\obj\Debug\HomeWork08.pdb
